@@ -1,2 +1,2 @@
 # Trading with Momentum
-Udacity - AI for Trading Nanodegree Program
+*Udacity - AI for Trading Nanodegree Program*
