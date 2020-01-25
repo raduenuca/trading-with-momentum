@@ -7,4 +7,4 @@
 * Compute the signal for the time range applies it to the dataset to produce projected returns. 
 * Perform a statistical test on the mean of the returns to conclude if there is alpha in the signal. 
 
-For the dataset, the end of day from Quotemedia is used.
+*For the dataset, the end of day from Quotemedia is used.*
